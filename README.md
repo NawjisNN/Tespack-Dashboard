@@ -1,14 +1,36 @@
-# Tespack
+# Project Title
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
+A brief description of what this project does and who it's for.
 
-## Development server
+## Demo
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Insert a link or a screenshot of the project if available.
 
-## Screenshots
+## Features
 
-Here the scrrenshots of Login and Product Dashboard page
+- Responsive HTML from Figma design
+- Tailwind CSS for styling
+- Vite for building and serving
 
+## Installation
 
-![widget](https://github.com/NawjisNN/Tespack-Dashboard/assets/119839484/666b9bd0-6908-4855-9c12-a74f9657346c)
+Ensure you have [Node.js](https://nodejs.org/) installed on your system to use `npm` commands.
+
+```bash
+# Clone the repository
+git clone https://your-repository-link
+cd your-project-directory
+
+# Install dependencies
+npm install
+```
+
+## Usage 
+
+# Start the development server
+
+npm start
+
+## Screenshot
+
+![widget](https://github.com/NawjisNN/Tespack-Dashboard/assets/119839484/4b5aaab5-333c-44a2-98a3-efbbee39b067)
